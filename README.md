@@ -58,6 +58,9 @@ Desenvolvedor Web/mobile. UI designer aprendiz.
 
 ### Contatos
 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-vitor/)
+[![](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusvitor.dev@gmail.com)
+
 
 <!--
 **matheusvitors/matheusvitors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
