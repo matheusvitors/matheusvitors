@@ -4,6 +4,10 @@ Desenvolvedor Web/mobile. UI designer aprendiz.
 
 ### Tech Stack 
 
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+          
+
 ### Stats
 
 <!--
@@ -27,6 +31,8 @@ Desenvolvedor Web/mobile. UI designer aprendiz.
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvitors&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 -->
+
+### Contatos
 
 
 <!--
